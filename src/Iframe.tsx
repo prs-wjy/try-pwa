@@ -24,7 +24,7 @@ function Iframe() {
       )}
       <iframe
         title="web"
-        src="https://developers.home-assistant.io/"
+        src="https://duadigital.click/"
         frameBorder={0}
         style={{
           position: "absolute",
